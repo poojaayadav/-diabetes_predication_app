@@ -34,5 +34,7 @@ Once it get all the fields information , the prediction is displayed on a new pa
 ## Installation
 .
 Begin a new virtual environment with Python 3 and activate it.
+
 Install the required packages using pip install -r requirements.txt
+
 Execute the command: app.py
