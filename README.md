@@ -47,6 +47,13 @@ Once it get all the fields information , the prediction is displayed on a new pa
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/86607798/128338979-51604bda-b095-4c47-8d0d-70a1cf71e60d.png)
 
+## Link Of This Project
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.225.229:8501
+
 
 ## Installation
 
