@@ -21,7 +21,8 @@ This is a web app which predicts the patient has diabetes or Not.
 *  Data Visualizations
 *  Creating machine learning model
 *  Model Evaluation
-*  Model Deployment
+*  Model Deployment![Screenshot (3)](https://user-images.githubusercontent.com/86607798/128338795-9bb2e112-5461-41cf-a2a6-3f516968548c.png)
+
 *  HyperParameter Tuning
 
 ## Technical Aspect
@@ -30,6 +31,9 @@ Training a machine learning model using scikit-learn.
 A user has to put details like Number of Pregnancies, Insulin Level, Age, BMI etc .
 Once it get all the fields information , the prediction is displayed on a new page .
 
+## Screenshot of the App
+
+![Screenshot (2)](https://user-images.githubusercontent.com/86607798/128338732-99b08afc-abec-46e6-9361-070c5343a207.png)
 
 ## Installation
 
