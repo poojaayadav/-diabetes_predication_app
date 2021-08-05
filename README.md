@@ -33,6 +33,9 @@ Once it get all the fields information , the prediction is displayed on a new pa
 
 ## Screenshot of the App
 
+![Screenshot (7)](https://user-images.githubusercontent.com/86607798/128339366-e33e54e9-daa7-42e9-9bf5-c9b5d538b222.png)
+
+
 ![Screenshot (2)](https://user-images.githubusercontent.com/86607798/128338732-99b08afc-abec-46e6-9361-070c5343a207.png)
 
 
