@@ -62,3 +62,8 @@ Begin a new virtual environment with Python 3 and activate it.
 Install the required packages using pip install -r requirements.txt
 
 Execute the command: app.py
+
+
+## LinkedIn Profile Link:
+
+https://www.linkedin.com/in/pooja-yadav-68952a204/
